@@ -11,3 +11,10 @@ The system adopts a FastAPI-based microservice architecture distributed across t
 This separation improves efficiency, scalability, and resource utilization. 
 
 Prototype testing demonstrates an average response latency of 7.8 seconds per query. The results validate the feasibility of integrating retrieval-augmented conversational AI with secure health data management to deliver a practical, patient-centric assistant that enhances healthcare accessibility, reduces administrative workload, and supports informed decision-making in clinical contexts.
+
+
+## Architecture
+![Architecture Diagram](./images/System_architecture.png)
+
+## Framework
+![Feature Screenshot](./images/Rag_framework.png)
