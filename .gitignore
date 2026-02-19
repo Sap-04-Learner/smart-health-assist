@@ -1,0 +1,20 @@
+# Generated Python caches
+shealth_bot/__pycache__/
+shealth_bot/app/__pycache__/
+shealth_bot/app/**/__pycache__/
+
+# Type checking cache
+shealth_bot/.mypy_cache/
+
+# Generated data and runtime files
+shealth_bot/data/chroma_db/
+shealth_bot/data/sessions/
+shealth_bot/logs/
+
+# Environment variables
+shealth_bot/.env
+
+# Python artifacts
+shealth_bot/*.pyc
+shealth_bot/*.pyo
+shealth_bot/*.egg-info/
