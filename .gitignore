@@ -2,14 +2,17 @@
 shealth_bot/__pycache__/
 shealth_bot/app/__pycache__/
 shealth_bot/app/**/__pycache__/
+web_scraping/**/__pycache__/
 
 # Type checking cache
-shealth_bot/.mypy_cache/
+*/.mypy_cache/
+.mypy_cache/
 
 # Generated data and runtime files
 shealth_bot/data/chroma_db/
 shealth_bot/data/sessions/
 shealth_bot/logs/
+web_scraping/output/logs/
 
 # Environment variables
 shealth_bot/.env
